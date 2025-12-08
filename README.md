@@ -403,7 +403,4 @@ This project is licensed under the **MIT License** 📋 - see the [LICENSE.md](L
 
 **Made with ❤️ and 🤖 for African Youth by Mwaki Denis**❤️ [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%B5-yellow?style=plastic)](https://wa.me/254798750585)
 
-
-**#AIEducation #TechEducation #AfricanYouth #DigitalTransformation #MPesa #React #TypeScript #Supabase #OpenAI** 
-
 </div>
